@@ -358,7 +358,7 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "留言板", link: "/remark/", icon: 'iconfont icon-cliplist' } # 新增
-    - { key: "博客园", link: "https://www.cnblogs.com/dkl-justdoit/", icon: "iconfont icon-link-fill" } # 新增
+    # - { key: "博客园", link: "https://www.cnblogs.com/dkl-justdoit/", icon: "iconfont icon-link-fill" } # 新增
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" } # 启用即可
 
